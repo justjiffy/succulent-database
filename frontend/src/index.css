@@ -15,7 +15,10 @@ body {
 }
 
 .header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-image: url('/jbauer-fotographie-desert3832488.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   color: white;
   padding: 30px;
   border-radius: 10px;
